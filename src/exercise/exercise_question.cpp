@@ -3,6 +3,7 @@
 using namespace std;
 class RobotSim{
     public:
+        //position
         float x_pos;
         float y_pos;
 };
