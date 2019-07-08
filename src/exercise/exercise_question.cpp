@@ -9,7 +9,6 @@ class RobotSim{
 
 int main(void){
     /*
-    namespace関連の課題が思いつかなかったです。
     問題設定
     1.ロボットの初期位置(0,0)を代入するコンストラクタとデストラクタを作成しなさい。
     2.メンバ変数x_pos、y_posにロボットの位置(引数)を代入するクラス関数Set(float x, float y)を作成しなさい
