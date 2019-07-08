@@ -16,7 +16,7 @@ int main(void){
     3.x_pos,y_posの値を出力するクラス関数Print()を作成しなさい
     4.main文でRobotSimクラスを2つ生成しなさい
     5.main文で1つ目のロボットの位置(1.0,2.0)に、2つ目のロボット(2.0, 3.0)に、Setを利用して代入し、Printで確認しなさい
-    6.main文で2つのx_posとy_posを利用して、2つのロボットの距離を求めなさい　平方根は#include<math>を呼び出し、sqrt()関数を使用すれば実現できる
+    6.main文で2つのx_posとy_posを利用して、2つのロボットの距離を求めなさい　平方根は#include<math.h>を呼び出し、sqrt()関数を使用すれば実現できる
     */
 
     //do nothing
